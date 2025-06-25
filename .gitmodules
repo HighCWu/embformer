@@ -1,0 +1,3 @@
+[submodule "embformer-minimind"]
+	path = embformer-minimind
+	url = https://github.com/HighCWu/embformer-minimind
