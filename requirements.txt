@@ -1,0 +1,5 @@
+gradio<=5.23.0
+numpy
+spaces<=0.37.1
+transformers @ git+https://github.com/huggingface/transformers.git@cb0f604
+torch
